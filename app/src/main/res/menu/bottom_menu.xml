@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Videos"
+        android:id="@+id/videoMenu"
+        android:icon="@drawable/video"
+        />
+    <item android:title="Images"
+        android:id="@+id/imageMenu"
+        android:icon="@drawable/image"
+        />
+    <item android:title="Audios"
+        android:id="@+id/audioMenu"
+        android:icon="@drawable/audio"
+        />
+</menu>
